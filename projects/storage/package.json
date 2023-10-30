@@ -1,0 +1,33 @@
+{
+  "name": "@vissoto-angular/storage",
+  "version": "14.0.0",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlavioVissoto/vissoto-angular-toolkit-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "angular",
+    "toolkit",
+    "vissoto",
+    "store",
+    "localstorage",
+    "sessionstorage",
+    "local",
+    "session"
+  ],
+  "author": "Flavio Vissoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlavioVissoto/vissoto-angular-toolkit-storage/issues"
+  },
+  "homepage": "https://github.com/FlavioVissoto/vissoto-angular-toolkit-storage#readme",
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
